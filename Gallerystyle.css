@@ -1,0 +1,27 @@
+.mygallery{
+	white-space: nowrap;
+	overflow: hidden;
+	width:	100%;
+	-webkit-padding-start: 0;
+}
+
+.mygallery li{
+	display: inline-block;
+	list-style: none;
+}
+
+.thumbnails li{
+	list-style: none;
+	float:		left;
+}
+
+
+.navigation .prev{
+	display: none;
+}
+
+
+.mygallery{
+	width:	600px;
+}
+
