@@ -1,0 +1,8 @@
+A simple slideshow gallery.
+
+Minimal amount of designer css and features.
+requiers jquery.
+
+*Create the slides you want to use as li-items in an ul with class=mygallery. Make sure that each li has a unique ID
+*scroll to the slide you want using href="#'listitemid'".
+*items with class "prev" and "next" to scroll to prev and next.
